@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background:url(" https://www.canstockphoto.com/programming-source-code-abstract-61416779.html");
+  background: no-repeat;
+
+}
+img{
+  height: 500px;
+  width: 500px;
+  border-radius: 15px;
+}
+p{
+  text-align: center;
+}
+ol{
+  padding-left: 0;
+  list-style-position: inside;
+}
+.my_font_class{
+  font-family: 'Nunito', sans-serif;
+}
